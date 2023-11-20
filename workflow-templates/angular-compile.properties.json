@@ -1,0 +1,12 @@
+{
+    "name": "Angular Compile Workflow",
+    "description": "Compila una aplicacion angular y la empaqueta",
+    "iconName": "angular-compile-icon",
+    "categories": [
+        "deployment"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "angular.json$"
+    ]
+}
